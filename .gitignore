@@ -1,0 +1,25 @@
+# Virtual env
+.venv/
+venv/
+env/
+
+# Env and secrets
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
