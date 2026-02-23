@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": {
+    "hugging-face-cli": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "51479ba117bd4446873722faf86b0e711ffd46fdb01a3054c69adf3fe2987e5d"
+    },
+    "hugging-face-datasets": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "0c1a4a58e5ae114ccda7a6d84e77c1ac80923ba51382fb3a0577130ff2175dbf"
+    },
+    "hugging-face-evaluation": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "0dc1eb363ab3733d38800dcb0a2f9908b0067ecc086c539b22333aeb720f2d41"
+    },
+    "hugging-face-jobs": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "00d6695d72186b0d6a947948f41fdabdf7460159b8acbf9b790fb581356d4e13"
+    },
+    "hugging-face-model-trainer": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "8cf1bb6d7dc8c8ed98fa86c9d76f0313e9e44e77dc27912aaaf882727c50ccd2"
+    },
+    "hugging-face-paper-publisher": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "80a51e2e34b70482eba3cca0e48fd47020a01d8f8e4de0e5cb547a3cd297e252"
+    },
+    "hugging-face-tool-builder": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "acdb6e04ede54be094174a67c886f89be518c70f9668c71e1771a4474fb17e36"
+    },
+    "hugging-face-trackio": {
+      "source": "huggingface/skills",
+      "sourceType": "github",
+      "computedHash": "52c73d35878c08966277c3c149f79ff724a57e497077e91cba91c22787140089"
+    }
+  }
+}
